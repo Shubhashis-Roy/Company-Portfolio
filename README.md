@@ -8,7 +8,7 @@
 ### Description
 
 - It's an company Company Portfio Website. Build as a freelance.
-- My roll is to build Back-end and manage DataBase.
+- My role is to build Back-end and manage DataBase.
 
 ### Technologies:
 
