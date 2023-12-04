@@ -7,8 +7,8 @@
 
 ### Description
 
-- It's an company Company Portfio Website. Build as a freelance.
-- My role is to build Back-end and manage DataBase.
+- It's a company Company Portfolio Website. Developed it as a Freelancer.
+- My role is to build Back-end and manage the DataBase.
 
 ### Technologies:
 
